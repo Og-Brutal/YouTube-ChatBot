@@ -6,4 +6,5 @@ langchain-google-genai
 python-dotenv
 faiss-cpu
 langchain-classic
-youtube-transcript-api
+yt_dlp
+youtube_transcript_api
