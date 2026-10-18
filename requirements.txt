@@ -6,5 +6,6 @@ langchain-google-genai
 python-dotenv
 faiss-cpu
 langchain-classic
-yt_dlp
 youtube_transcript_api
+sentence-transformers
+langchain-huggingface
